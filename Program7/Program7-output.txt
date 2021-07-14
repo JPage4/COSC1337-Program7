@@ -1,0 +1,31 @@
+Name:     Jessica Page
+Course:   COSC-1337 Programming Fundamentals II
+Program:  Seven
+
+
+Demonstrating the default constructor...
+Item number: 0
+Quantity   : 0
+Cost       : 0.00
+Total Cost : 0.00
+
+Demonstrating the overloaded constructor...
+Item number: 124
+Quantity   : 84
+Cost       : 12.00
+Total Cost : 1008.00
+
+Demonstrating the "set" functions...
+Item number: 243
+Quantity   : 50
+Cost       : 9.50
+Total Cost : 475.00
+
+Demonstrating the input validation functions...
+
+Item number: 243
+Quantity   :  50
+Cost       :  9.50
+Total Cost :  475.00
+
+Press any key to exit...
